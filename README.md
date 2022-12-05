@@ -8,7 +8,6 @@
 ### The device mainly uses a potentiometer to send the data of the the finger's angle to LCD and to the phone through a bluetooth module
 ### The device has Arduino Nano as it's main controller, Potentiometer to send the Angle Data, LCD to show the data, Bluetooth module to send the data to the phone , 2 push buttons one for the hold of the readings, the second is for getting the angles in degree and minute format
 
-
 ### The project went throgh four phases
 
 ## Phase 1 Idea
@@ -36,6 +35,10 @@
 ### After i made sure it works fine i turned to try the components connections on a bread board as follows 
 ![breadboard](https://github.com/ENG-MohamedEssam/finger-fracture-physical-therapy-device/blob/main/images/breadboard.PNG)
 ### Then i designed the circuit on Eagle-Cad program 
+### I even designed one of the three parts on SolidWorks as you can see below 
+![Part]()
+### the other two parts were open source 
+
 ## Phase 4 fabrication
 ### in this phase i fabricated the PCB and tested it and it worked fine, below are some images of the final product (The band)
 ![band-img1](https://github.com/ENG-MohamedEssam/finger-fracture-physical-therapy-device/blob/main/images/img%20(2).jpeg)
