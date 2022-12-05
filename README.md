@@ -36,7 +36,7 @@
 ![breadboard](https://github.com/ENG-MohamedEssam/finger-fracture-physical-therapy-device/blob/main/images/breadboard.PNG)
 ### Then i designed the circuit on Eagle-Cad program 
 ### I even designed one of the three parts on SolidWorks as you can see below 
-![Part]()
+![Part](https://github.com/ENG-MohamedEssam/finger-fracture-physical-therapy-device/blob/main/images/sld-prt.png)
 ### the other two parts were open source 
 
 ## Phase 4 fabrication
