@@ -6,6 +6,8 @@
 
 ### This project was for helping the physical therapist to help aid the patiets that had a broken or fractured finger
 ### The device mainly uses a potentiometer to send the data of the the finger's angle to LCD and to the phone through a bluetooth module
+### The device has Arduino Nano as it's main controller, Potentiometer to send the Angle Data, LCD to show the data, Bluetooth module to send the data to the phone , 2 push buttons one for the hold of the readings, the second is for getting the angles in degree and minute format
+
 
 ### The project went throgh four phases
 
