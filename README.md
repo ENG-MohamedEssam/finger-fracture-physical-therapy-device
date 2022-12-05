@@ -7,13 +7,13 @@
 ### This project was for helping the physical therapist to help aid the patiets that had a broken or fractured finger
 ### The device mainly uses a potentiometer to send the data of the the finger's angle to LCD and to the phone through a bluetooth module
 
-### The project went throgh three phases
+### The project went throgh four phases
 
 ## Phase 1 Idea
 ### The idea was to replicate the behaviour of a digital protractor device that was already in the market to invent something that may help the patients with broken fingers
 ## Phase 2 Reverse-Engineering
 ### So i started Reverse-Engineering the Digital protractor as shown below 
-![protractor]()
+![protractor](https://github.com/ENG-MohamedEssam/finger-fracture-physical-therapy-device/blob/main/images/reverse-engineered-protractor.jpeg)
 ### When i understood it's behaviour i started to find similar components in the Egyptian market 
 ### the components that i didn't find was the induction encoder so i had to find a replacement
 ### i thought of three things, Potentiometer, Normal Encoder, IMU
@@ -30,13 +30,13 @@
 
 ## Phase 3 Design
 ### In this phase i started to design the circuit on protues such as follows
-![sim]()
+![sim](https://github.com/ENG-MohamedEssam/finger-fracture-physical-therapy-device/blob/main/images/sim.jpeg)
 ### After i made sure it works fine i turned to try the components connections on a bread board as follows 
-![breadboard]()
+![breadboard](https://github.com/ENG-MohamedEssam/finger-fracture-physical-therapy-device/blob/main/images/breadboard.PNG)
 ### Then i designed the circuit on Eagle-Cad program 
 ## Phase 4 fabrication
 ### in this phase i fabricated the PCB and tested it and it worked fine, below are some images of the final product (The band)
-![band-img1]()
-![band-img2]()
+![band-img1](https://github.com/ENG-MohamedEssam/finger-fracture-physical-therapy-device/blob/main/images/img%20(2).jpeg)
+![band-img2](https://github.com/ENG-MohamedEssam/finger-fracture-physical-therapy-device/blob/main/images/device%20band.jpeg)
 ### The following is a video of me explaining how the whole process works
-[Explanation]()
+[Explanation](https://drive.google.com/drive/folders/1u0ruocD8NN2b_IU45vWWJVkj_FHNx0_M?usp=share_link)
